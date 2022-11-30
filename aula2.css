@@ -1,0 +1,58 @@
+body{
+   color: aliceblue;
+   background-color: #73e9a8;
+   font-family:Arial, Helvetica, sans-serif ;
+}
+ul{
+    display: flex;
+    justify-content:space-between ;
+    list-style-type:none ;
+    align-items: center;
+    padding: 10px;
+}
+a{
+   color: rgb(15, 14, 14); 
+   text-decoration: none;
+}
+
+.center{ 
+    text-align: center;
+    
+}
+
+.imagem-texto {
+    display: flex;
+}
+
+.capa {
+    margin-right:10px
+;
+}
+.letras{
+    color: rgb(20, 18, 18);
+    
+ } 
+.TITULO{
+    color: rgb(12, 11, 11);
+    margin-right: 100px;
+}
+.TEXTO{
+   color: rgb(24, 22, 22);
+}
+.FALAS{
+    color: rgb(22, 19, 19);
+}
+.IMAGEM{
+    width: 800px;
+    margin-left: 500px;
+}
+ .titulo{
+    color: rgb(14, 13, 13);
+ }
+ 
+ p{
+    color: rgb(14, 12, 12);
+ }
+ h2{
+    color: rgb(15, 15, 15);
+ }
